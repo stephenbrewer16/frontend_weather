@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "brewer-weather-app",
+    "staging": "brewer-weather-app"
+  }
+}
